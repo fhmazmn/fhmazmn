@@ -1,4 +1,4 @@
-
+![Profile](profile.jpg)
 
 # Hi there, I'm Fahim Azman 👋
 
