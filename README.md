@@ -1,27 +1,26 @@
-![Profile](profile.jpg)
+<img align="right" src="profile.jpg" alt="Me" width="200" style="border-radius: 50%;" />
 
-# Hi there, I'm Fahim Azman 👋
+# Hi there, I'm [Fahim Azman] 👋
 
-I'm a passionate developer learning new technologies and  I'm also a very curious person looking to see how things work and how things can be willed to work
+*A passionate student, taking Data Engineering with Hons in UTM*
 
----
+Welcome to my GitHub profile!
 
-### 🚀 About Me
-
-- 🌱 I’m currently learning **Git, GitHub, Java, and Python**
-- 👯 I’m looking to collaborate on a ventilation system or a network system
+### 🌱 About Me
+- 💼 I’m currently studying at **Universiti Teknologi Malaysia**
 - 📫 How to reach me: **fahim-07@graduate.utm.my**
-- ⚡ Fun fact: i like trains
+- ⚡ Fun fact: **I like trains**
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 💻 Tech Stack & Tools
 
-- **Languages:** JavaScript, Python
-- **Tools:** Git, GitHub, VS Code
+**Languages:**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
 
-### 📫 Connect with Me
+### 🌐 Connect with me
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fahim-azman-46386440a)
+<a href="https://www.linkedin.com/in/fahim-azman-46386440a" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
